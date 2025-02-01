@@ -41,7 +41,7 @@ The dataset consists of **Twitter data** scraped from February 2015. The tweets 
 The model achieved impressive performance on both sentiment and reason classification:
 
 - **Sentiment Accuracy**: 97.59%
-- **Reason Accuracy**: 94%
+- **Reason Accuracy**: 93.58%
 
 The model demonstrated strong capabilities in understanding customer sentiments towards airlines and identifying specific issues mentioned in the tweets.
 
